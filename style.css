@@ -15,9 +15,8 @@ li {
 
 .card-img
 {
-    text-align: center;
     object-fit: fill;
-    
+    width: 500px
 }
 
 .blog {
