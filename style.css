@@ -18,7 +18,9 @@ li {
     margin-left: auto;
     margin-right: auto;
     object-fit: fill;
-    width: 500px
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 550px
 }
 
 .blog {
